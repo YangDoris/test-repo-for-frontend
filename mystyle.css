@@ -101,6 +101,8 @@
     width: 70px;
     font-size: 14px;
   }
+
+  /*upgrade: content in the bottom of menu*/
   .upgrade-title {
     color: #FEDD03;
     display: flex;
